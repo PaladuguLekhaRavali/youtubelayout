@@ -1,0 +1,206 @@
+.video{
+    margin-left: 200px;
+    height: 20px;
+    width: 30px;
+    margin-top: 8px;
+    
+}
+input{
+    width: 400px;
+    border-radius: 15px;
+   padding: 6px;
+}
+.search{
+    margin-left: 170px;
+    
+    width: 400px;
+ 
+
+}
+.flex{
+    display: flex;
+    margin-top: 15px;
+}
+.micro{
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.ple{
+    margin-left: 20px;
+    height: 20px;
+    width: 30px;
+    margin-top: 8px;
+}
+.bell{
+    margin-left: 20px;
+    height: 20px;
+    width: 30px;
+    margin-top: 8px;
+
+}
+.bar{
+    width:280px;
+    
+    height: 670px;
+    
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.home{
+    display: flex;
+    background-color: gainsboro;
+    width: 100%;
+    border-radius: 5px;
+    height: 30px;
+    
+
+}
+.home p{
+    margin-left: 15px;
+    font-size: 20px;
+}
+#hover:hover{
+    background-color: gainsboro;
+    width: 100%;
+    border-radius: 5px;
+    height: 32px;
+}
+
+    .shorts{
+        display:flex;
+        margin-left: -10px;
+    }
+    .shorts p{
+        margin-left: 5px;
+        margin-top: 8px;
+    font-size: 20px;
+    }
+    .subscriptions{
+        display: flex;
+    }
+    .subscriptions p{
+        margin-left: 17px;
+       
+    font-size: 20px;
+    }
+    .library{
+        display: flex;
+    }
+    .library p{
+        margin-left: 17px;
+       
+        font-size: 20px;
+
+    }
+    .history{
+        display: flex;
+        margin-top: 10px;
+    }
+    .history p{
+        margin-left: 17px;
+       
+        font-size: 20px;
+
+    }
+    .watch{
+        display: flex;
+        margin-top: 10px;
+    }
+    .watch p{
+        margin-left: 19px;
+       
+        font-size: 20px;
+
+    }
+    .liked{
+        display: flex;
+        margin-top: 10px;
+    }
+    .liked p{
+        margin-left: 18px;
+       
+        font-size: 20px;
+
+    }
+    .sub{
+        font-size: 25px;
+    }
+    .leo{
+        margin-top: 10px;
+        display: flex;
+    }
+.leo p{
+           
+        margin-left: 18px;
+       
+        font-size: 20px;
+
+    }
+    .wifi{
+        margin-left: 29px;
+    }
+    .img{
+        border-radius: 50%;
+        margin-top: -3px;
+    }
+.coco{
+    margin-top: 10px;
+        display: flex;
+}
+.coco p{
+           
+    margin-left: 25px;
+   
+    font-size: 20px;
+
+}
+.wifi1{
+    margin-left: 59px;
+}
+.hei{
+    margin-top: 10px;
+    display: flex;
+}
+.hei p{
+    margin-left: 25px;
+   
+    font-size: 20px;
+}
+.circle{
+    margin-left: 69px;
+    margin-top: 11px;
+}
+.info{
+    margin-top: 10px;
+    display: flex;
+}
+.info p{ 
+       margin-left: 29px;
+   
+    font-size: 20px;
+
+}
+.circle1{
+    margin-left: 23px;
+    margin-top: 11px;
+}
+.green{
+    margin-top: 10px;
+    display: flex;
+}
+.green p{
+    margin-left: 23px;
+   
+    font-size: 20px;
+
+}
+.circle2{
+    margin-left: 7px;
+    margin-top: 11px;
+} 
+
+    
+  
